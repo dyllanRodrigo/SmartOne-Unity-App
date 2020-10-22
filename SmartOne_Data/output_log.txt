@@ -1,0 +1,59 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(TM) Graphics 6100 (ID=0x162b)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Josias Perez\Desktop\3RD\SmartOne_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Josias Perez\Desktop\3RD\SmartOne_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Josias Perez\Desktop\3RD\SmartOne_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Josias Perez\Desktop\3RD\SmartOne_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Josias Perez\Desktop\3RD\SmartOne_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Josias Perez\Desktop\3RD\SmartOne_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Josias Perez\Desktop\3RD\SmartOne_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Josias Perez\Desktop\3RD\SmartOne_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.194 seconds
+Platform assembly: C:\Users\Josias Perez\Desktop\3RD\SmartOne_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Josias Perez\Desktop\3RD\SmartOne_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on Fading
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 2560x1600 60Hz; virtual: 2560x1600 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.836480 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.350756 ms
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 786.
+Total: 0.612503 ms (FindLiveObjects: 0.050062 ms CreateObjectMapping: 0.029202 ms MarkObjects: 0.354228 ms  DeleteObjects: 0.178631 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.473801 ms
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 513.
+Total: 0.560166 ms (FindLiveObjects: 0.029961 ms CreateObjectMapping: 0.025410 ms MarkObjects: 0.272308 ms  DeleteObjects: 0.232106 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.334176 ms
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 789.
+Total: 0.596574 ms (FindLiveObjects: 0.081920 ms CreateObjectMapping: 0.039063 ms MarkObjects: 0.407324 ms  DeleteObjects: 0.067887 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.611093 ms
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 547.
+Total: 0.866607 ms (FindLiveObjects: 0.064094 ms CreateObjectMapping: 0.042477 ms MarkObjects: 0.485831 ms  DeleteObjects: 0.273825 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 810 -> priority: 1 
+  Thread -> id: 160c -> priority: 1 
